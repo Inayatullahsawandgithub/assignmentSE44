@@ -1,0 +1,6 @@
+public class printing {
+public static int (int a){
+for (int i=0;i>a;i++){
+System.out.println(a);
+}
+}
